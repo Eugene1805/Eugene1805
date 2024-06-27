@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Eugene]
+# 👋 Hello! I'm Eugene
 
 ### Software Engineering Student at Universidad Veracruzana (UV)
 
