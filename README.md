@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hello! I'm [Eugene]
 
-<!--
-**Eugene1805/Eugene1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student at Universidad Veracruzana (UV)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I'm a passionate front end software developer in training, with a strong interest in building dynamic and responsive web applications. I'm currently pursuing a degree in Software Engineering at Universidad Veracruzana.
+
+---
+
+## Skills and Technologies
+- **Programming Languages:**
+  - JavaScript
+  - HTML
+  - CSS
+  - C
+  - C++
+- **Version Control:**
+  - Git
+- **Databases:**
+  - SQL with SQLite
+
+---
+
+## Get in Touch
+- **Email:** [eugeniosalvadorgonzalez@gmail.com](mailto:eugeniosalvadorgonzalez@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **GitHub:** [Your GitHub Username](https://github.com/Eugene1805)
+
+---
+
+Thanks for stopping by my GitHub profile! I'm always eager to collaborate on new projects and learn new things. Feel free to reach out.
+
