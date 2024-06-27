@@ -25,8 +25,8 @@ I'm a passionate front end software developer in training, with a strong interes
 
 ## Get in Touch
 - **Email:** [eugeniosalvadorgonzalez@gmail.com](mailto:eugeniosalvadorgonzalez@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub:** [Your GitHub Username](https://github.com/Eugene1805)
+- **LinkedIn:** [Eugenio González](https://www.linkedin.com/in/eugeniogonz%C3%A1lez/)
+- **GitHub:** [Eugene1805](https://github.com/Eugene1805)
 
 ---
 
